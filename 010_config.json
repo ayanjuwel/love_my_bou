@@ -1,9 +1,9 @@
 {
     "status": true,
-    "server_time_utc": "2026-06-15 19:09:43",
+    "server_time_utc": "2026-06-15 20:07:52",
     "app_key": "010",
     "config": {
-        "api_base_url": "https://mymoonsports.xyz/feed/",
+        "api_base_url": "https://mymoonsports.xyz/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
         "force_update": false,
