@@ -1,8 +1,9 @@
 {
     "status": true,
-    "server_time_utc": "2026-06-15 20:07:52",
+    "server_time_utc": "2026-06-15 20:35:27",
     "app_key": "010",
     "config": {
+        "app_id": "010",
         "api_base_url": "https://mymoonsports.xyz/",
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
@@ -31,7 +32,6 @@
         "copyright_text": "© 2026 Soccery TV. All rights reserved.",
         "disclaimer_text": "Soccery TV does not host or upload any video content. All football streams available in the app are provided by third-party sources publicly available on the internet.\r\n\r\nWe do not control or guarantee the availability, quality, or legality of any streams. All trademarks, logos, and content belong to their respective owners.\r\n\r\nIf you are a rights holder and believe any content violates your rights, please contact us for prompt removal.",
         "privacy_text": "Soccery TV respects your privacy. We do not collect personal information such as your name, email, or phone number.\r\n\r\nThe app may collect limited anonymous data (such as app usage and crash reports) to improve performance and user experience.\r\n\r\nWe may send notifications for match updates, news, or important announcements. You can disable notifications anytime from your device settings.\r\n\r\nSoccery TV does not host any video content. All streams are provided by third-party sources, and all content belongs to their respective owners.\r\n\r\nIf you have any questions or concerns, please contact us.",
-        "app_id": "010",
         "api_backup_url": "https://api.lovemybou.xyz/",
         "apk_download_url": "https://github.com/ayaanahad/stv/releases/download/v3.0.8/release_V3.0.8_code38.apk",
         "external_player_download_url": "https://play.google.com/store/apps/details?id=com.mnetplayer.app",
@@ -52,7 +52,7 @@
         "telegram_dialog_interval_hours": 24,
         "telegram_dialog_interval_unit": "hours",
         "notice_dialog_text": "Enjoy the new look! We’ve updated Soccery TV with a fresh UI for a smoother and better experience.",
-        "telegram_dialog_token": 2,
+        "telegram_dialog_token": "2",
         "external_player_name": "MNet Player",
         "external_player_config_url": "https://raw.githubusercontent.com/aburayhan002025-netizen/py/refs/heads/main/player_1_config.json",
         "blocked_packages": "com.guoshi.httpcanary,\r\ncom.guoshi.httpcanary.premium,\r\ncom.httpcanary.pro,\r\ncom.reqable.android,\r\napp.greyshirts.sslcapture,\r\ncom.minhui.networkcapture,\r\ncom.emanuelef.remote_capture,\r\ntech.httptoolkit.android.v1,\r\ncom.evbadroid.wicapdemo,\r\nco.ec.cns.netpatch,\r\ncom.gorillasoftware.everyproxy,\r\nlv.n3o.shark,\r\norg.wireshark,\r\nnet.portswigger.burp,\r\ncom.telerik.fiddler,\r\ncom.xk72.charles,\r\nde.robv.android.xposed.installer,\r\norg.lsposed.manager,\r\ncom.saurik.substrate,\r\ncom.topjohnwu.magisk,\r\ncom.koushikdutta.superuser,\r\neu.chainfire.supersu,\r\ncom.noshufou.android.su,\r\ncom.yellowes.su,\r\ncom.kingroot.kinguser,\r\ncom.kingo.root,\r\ncom.zachspong.temprootremovejb,\r\ncom.ramdroid.appquarantine,\r\ncom.devadvance.rootcloak,\r\ncom.devadvance.rootcloakplus,\r\ncom.dimonvideo.luckypatcher,\r\nru.maximoff.apktool,\r\nbin.mt.plus,\r\ncatch_.me_.if_.you_.can_,\r\norg.meowcat.edxposed.manager,\r\nio.github.vvb2060.magisk,\r\norg.lsposed.lspd,\r\nre.frida.server,\r\ncom.frida.server,\r\ncom.cih.game_cih,\r\ncom.chelpus.lackypatch,\r\ncom.android.vending.billing.InAppBillingService.COIN,\r\ncom.parallel.space,\r\ncom.lbe.parallel.intl,\r\ncom.applisto.appcloner,\r\ncom.applisto.appcloner.premium,\r\ncom.cloneapp.parallelspace.dualspace,\r\ncom.excelliance.multiaccounts,\r\ncom.ludashi.dualspace,\r\ncom.qihoo.magic,\r\ncom.fuzhu8.inspector,\r\ncom.fuzhu8.inspector.plugin,\r\ncom.sk.spatch,\r\nio.mrarm.irc,\r\ncom.termux,\r\njackpal.androidterm,\r\ncom.a0soft.gphone.aDataOnOff,\r\ncom.speedsoftware.rootexplorer,\r\ncom.keramidas.TitaniumBackup,\r\ncom.strongoctopus.android,\r\ncom.zimperium.zanti,\r\ncom.offsec.nethunter,\r\norg.proxydroid,\r\ncom.guoshi.httpcanary.plugin",
