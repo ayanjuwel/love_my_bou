@@ -1,6 +1,6 @@
 {
     "status": true,
-    "server_time_utc": "2026-07-07 15:42:12",
+    "server_time_utc": "2026-07-07 15:43:53",
     "app_key": "001",
     "config": {
         "app_id": 1,
@@ -9,10 +9,6 @@
         "maintenance_mode": false,
         "maintenance_message": "App under maintenance. Please try again later.",
         "force_update": false,
-        "min_supported_version": 46,
-        "latestVersionName": "5.1.1",
-        "app_update_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
-        "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
         "player_mode": "external",
         "external_player_required": false,
         "external_player_package": "com.mnetplayer.app",
@@ -80,6 +76,10 @@
         "blocked_redirect_url": "https://khelfytv.com/get/",
         "secure_hosts": "api.cr7sui.top,api.itforeveryone.top",
         "primary_origin": "api.cr7sui.top",
-        "backup_edge": "api.itforeveryone.top"
+        "backup_edge": "api.itforeveryone.top",
+        "latestVersionName": "5.1.1",
+        "min_supported_version": 49,
+        "apk_download_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk",
+        "app_update_url": "https://github.com/ayaanahad/ktv/releases/download/v5.1.1/app-release.apk"
     }
 }
